@@ -19,7 +19,7 @@
 ### App Walkthough GIF
 
 
-<img src="https://github.com/elbektech/FlixsterUnit1/blob/master/gif.gifE" 
+<img src="gif.gif" 
 
 ### Notes
 
